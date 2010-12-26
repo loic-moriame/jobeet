@@ -1,0 +1,6 @@
+[paths]
+default = ssh://hg@bitbucket.org/moriame/jobeet
+
+[ui]
+ssh = ssh -C
+username = loïc moriamé <wisrou@moriame.fr>
