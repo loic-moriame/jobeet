@@ -1,2 +1,7 @@
+# git files
+###########
+.git/
+.gitignore
+
 cache/
 log/
