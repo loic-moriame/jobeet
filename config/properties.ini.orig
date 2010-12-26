@@ -1,4 +1,0 @@
-[symfony]
-  name=jobeet
-  author=loïc moriamé
-  orm=Doctrine
