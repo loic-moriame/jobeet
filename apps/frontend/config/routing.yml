@@ -16,6 +16,22 @@ job_show_user:
     id: \d+
     sf_method: [get]
 
+category:
+  url: /category/:slug
+  class:   sfDoctrineRoute
+  param:    { module: category, action: show }
+  options:  { model: JobeetCategory, type: object }
+
+#job_category_show_user:
+#  url: /category/:name_slug
+#  options:
+#    model: JobeetCategory
+#    type: object
+#  param: { module: category, action: show}
+#  requirements:
+#    id: \d+
+#    sf_method: [get]
+
 # default rules
 homepage:
   url:   /

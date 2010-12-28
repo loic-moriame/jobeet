@@ -1,7 +1,8 @@
 # mercurial files #
 ##################
-.hg/
 .hgignore
+.hg/*
+*.hg/*
 
 # symfony files
 ################

@@ -27,7 +27,7 @@
  * 
  * @package    jobeet
  * @subpackage model
- * @author     Your name here
+ * @author     loïc moriamé
  * @version    SVN: $Id: Builder.php 7490 2010-03-29 19:53:27Z jwage $
  */
 abstract class BaseJobeetAffiliate extends sfDoctrineRecord

@@ -1,1 +1,1 @@
-remove cache files
+ignore git files

@@ -3035,3 +3035,8 @@ data/web/images/symfony.gif.i
 data/web/uploads/jobs/extreme-sensio.gif.i
 data/web/uploads/jobs/sensio-labs.gif.i
 data/lib/Jobeet.class.php.i
+data/apps/frontend/modules/category/actions/actions.class.php.i
+data/apps/frontend/modules/category/templates/showSuccess.php.i
+data/apps/frontend/modules/job/templates/_list.php.i
+data/nbproject/private/private.xml.i
+data/test/functional/frontend/categoryActionsTest.php.i
