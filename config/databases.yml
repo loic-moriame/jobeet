@@ -5,3 +5,8 @@ all:
       dsn: 'mysql:host=localhost;dbname=jobeet'
       username: root
       password: toor
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;dbname=jobeet_test'

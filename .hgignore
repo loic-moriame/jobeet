@@ -2,7 +2,8 @@
 ###########
 /.git/*
 .gitignore
-
+.git/
+.git/*
 
 cache/
 log/
